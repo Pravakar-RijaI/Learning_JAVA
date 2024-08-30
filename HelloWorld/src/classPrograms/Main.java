@@ -1,8 +1,5 @@
 package classPrograms;
 
-import java.util.Scanner;
-
-import javabook.ReturnObjects;
 public class Main {
 
 	public static void main(String[] args) {
